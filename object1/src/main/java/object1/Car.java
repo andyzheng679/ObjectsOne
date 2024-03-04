@@ -7,6 +7,7 @@ package object1;
   private int year;
   private int mileage;
 
+
   public Car(String make, String model, int year, int mileage){
    this.make = make;
    this.model = "honda";

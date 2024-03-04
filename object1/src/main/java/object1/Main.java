@@ -14,10 +14,24 @@ public class Main {
         Person[] people = new Person[2];
         people[1] = person1;
 
+        System.out.println(people[1].age); //specific
+
+
+
+
+
 
         Dog[] dogs = new Dog[7];
         Chair[] chairs = new Chair[10];
         Car[] cars = new Car[5];
+
+        /*
+        int[] num = {1,2,3,4};
+        for (int x : num){
+            System.out.println(x);
+            */
+
+        }
 
 
     }
